@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Faustino Freitas e Fleitas, tenho 17 anos e sou Brasileiro. Estou em processo de conclusão do curso técnico em informática do ensino médio. Atualmente, possuo conhecimentos práticos em HTML5, CSS3 e JavaScript e busco aprimorar minhas habilidades, incrementanto bibliotecas e frameworks ao meu arsenal profissional.
+Me chamo Faustino Freitas e Fleitas, tenho 17 anos e moro em uma pequena cidade no interior de Mato Grosso Do Sul. Estou em processo de conclusão do curso técnico em informática do ensino médio. Atualmente, possuo conhecimentos práticos em HTML5, CSS3 e JavaScript e busco aprimorar minhas habilidades, incrementanto bibliotecas e frameworks ao meu arsenal profissional.
 
 
 ---
@@ -49,6 +49,14 @@ Me chamo Faustino Freitas e Fleitas, tenho 17 anos e sou Brasileiro. Estou em pr
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Sass" 
+    title="Sass"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/> 
 <img 
     align="left" 
     alt="MySQL" 
